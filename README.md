@@ -6,7 +6,7 @@ Front end A/B testing demands a strong working knowledge of DOM manipulation. Th
 
 **Provide JavaScript code which will manipulate the initial state of an HTML document with an empty unordered list such that the list will contain 7 ice cream flavors from the global array `iceCreamFlavors` with each flavor as child text of a *li* element with the class "ice-cream-flavor".**
 
-Your challenge is to provide meaningfully different solutions using various techniques. Please provide at least 3 solutions, but you are welcome to do as many as you'd like. Each solution should be its own file under a `solutions/` directory. Filenames should follow the following convention: `solution1.js`, `solution2.js`, etc. Clone this repo and provide your solutions on your GitHub. See email for submission instructions.
+Your challenge is to provide meaningfully different solutions using various techniques. Please provide at least 3 solutions, but you are welcome to do as many as you'd like. Each solution should be its own file under a `solutions/` directory. Filenames should follow the following convention: `solution1.js`, `solution2.js`, etc. Clone this repo and provide your solutions on your GitHub account. See email for submission instructions.
 
 
 ### Expected output
